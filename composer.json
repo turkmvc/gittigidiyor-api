@@ -1,0 +1,22 @@
+{
+    "name": "turkmvc/gittigidiyor",
+    "description": "Laravel Gittigidiyor Service Provider",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "turkmvc",
+            "email": "turkmvc@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "turkmvc\\Gittigidiyor\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
