@@ -1,1 +1,2 @@
-# gittigidiyo-api
+# Gittigidiyor
+Gittigidiyor Entegrasyonu
